@@ -1,7 +1,7 @@
 # DarkestNightDecomp
-## Currently just an asset dump!
+## Asset dump
 
-Decompilation of 'Darkest Night' by VarangianDev/Slavic303
+"Decompilation" of ['Darkest Night' by VarangianDev/Slavic303](https://varangiandev.itch.io/dark-is-the-night)
 
 Progress: 0%
 
